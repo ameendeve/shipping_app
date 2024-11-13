@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422947212637",
+    "project_id": "shippingapp-71c75",
+    "storage_bucket": "shippingapp-71c75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422947212637:android:9f88fe8d80ef7e4eb92cb4",
+        "android_client_info": {
+          "package_name": "com.arksoftec.shippingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJeTlzjPTEysThiUelUyl6c0WqjP6oeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
